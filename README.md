@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `Output`
+![Screenshot_18-9-2024_0166_localhost](https://github.com/user-attachments/assets/3dc9f7a8-ef58-408e-bdd7-027b0b5cebe9)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
